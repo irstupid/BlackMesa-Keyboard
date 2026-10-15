@@ -1,5 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 the board,1,JLC PCB,$27.00,$27.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
-the board,1,JLC PCB,$0.00,$0.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 Estimated total shipping,1,,$0.00,$0.00,
 Estimated total shipping,1,,,$18.00,
