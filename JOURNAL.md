@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-10T23:27:34.320Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvj577y00co01pyajcq8s9g). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > I have been procrastinating making a mechanical keyboard for a long time so its time to bite the bullet and sped like 10 hours moving around key footprints in kicad
 
