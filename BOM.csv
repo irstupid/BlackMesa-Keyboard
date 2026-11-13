@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$27.00,$27.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 0402 0.1uf capacitor,100,Digikey,$0.02,$2.00,https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R6BB104/2103083
 NeoPixel 5050 x100,1,adafruit/digikey,$29.95,$29.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3094/6058485?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4ArAEwIC6AvvYVWSAMwAMAnACwgNA
+cherry MX RED,87,mechanical keyboards,$0.28,$24.36,https://mechanicalkeyboards.com/products/cherry-mx-red-45g-linear?variant=47357318857004
 Estimated total shipping,1,,,$25.00,
