@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$27.00,$27.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+0402 0.1uf capacitor,100,Digikey,$0.02,$2.00,https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R6BB104/2103083
 Estimated total shipping,1,,,$25.00,
