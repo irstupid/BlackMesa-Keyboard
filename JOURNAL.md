@@ -57,11 +57,12 @@ I actually mad a lot of progress today! I made (most) of the schematic!
 
 Its hard to write journals about these kind of days because all i do is sit there and connect the dots for two and a half hours, so i wanted to try to get lapse working.
 
-Unfortunately, that is no easy task. first of all the provided package relied on an outdated version of libsoup, so i had to compile the legacy build from the AUR, but that actually FAILED, so i had to force the compiler to skip tests so now theres like a 50% chance lookout randomly explodes. BUT then i had to fix some pipewire issues (which were admittedly probably my fault) AND THEN THE SERVER FAILS.
+Unfortunately, that is no easy task. first of all the provided package relied on an outdated version of libsoup, so i had to compile the legacy build from the AUR, but that actually FAILED, so i had to force the compiler to skip tests so now theres like a 50% chance lookout randomly explodes. BUT then i had to fix some pipewire issues (which were admittedly probably my fault) AND THEN THE SERVER FAILS. 
 
 ![LookoutFailed](https://halflife.hackclub-assets.com/sessions/SBJjSHTWe8hvDrkl8UXPZsu6tr233Wj5/0eb4227fac5f76763a0bec074301bfd31b4cb63e1292f179757198988cb4a2d7.png)
 
 I might try to get lapse working again in the future, but that took like 30 minutes and i honestly dont want to deal with it anymore.
+
 
 that being said i need a third image so heres a screenshot of a cool motion planning maze solving screensaver thing i finished durring class today
 
@@ -75,7 +76,7 @@ Thursdays free through!
 **5h**
 
 I made so much progress today its amazing what you can do with academic negligence and sleep deprivation.
-I decided on a microcontroller, arranged all the keys, and started getting the traces wired. lots and lots of boring repetitive work. i only had to re-do something for every key because i made a silly mistake twice though! I'm gonna use a pi pico. upon thinking about it for like 3 seconds i realized its the obvious choice. Its SMD, has plenty of pins, and i can run the input handling and LEDs on separate cores. Speaking of LEDS, I decided on a layout and a type. Im gonna use 5050's
+I decided on a microcontroller, arranged all the keys, and started getting the traces wired. lots and lots of boring repetitive work. i only had to re-do something for every key because i made a silly mistake twice though! I'm gonna use a pi pico. upon thinking about it for like 3 seconds i realized its the obvious choice. Its SMD, has plenty of pins, and i can run the input handling and LEDs on separate cores. Speaking of LEDS, I decided on a layout and a type. Im gonna use 5050's 
 
 ![SMD LED 5050 RGB 0](https://halflife.hackclub-assets.com/sessions/SBJjSHTWe8hvDrkl8UXPZsu6tr233Wj5/8901f4b3269538fb3a4e572725abccd7f36281df5096d4af7f0a6dabc24fffa2.jpg)
 
